@@ -7,3 +7,4 @@ Since Delilah sourced most of her user-testers through her network, their backgr
 
 My response to the prompt is below:”
 She can use social media and data from other sources to try to approach more potential user-tests from underrepresented minorities. 
+test
